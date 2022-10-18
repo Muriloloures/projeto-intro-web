@@ -35,7 +35,7 @@ Aqui neste site você vai poder:
 
 
 ## Links
-  - Deploy on Heroku: https://lucas-dev.com/
+  - Deploy: https://tasteless-crush.surge.sh
   - Repositorio: https://github.com/Muriloloures/projeto-intro-web
     - Em caso de bugs ou qualquer outro problema por favor, contate-me
       murilomlssloures@outlook.com. Eu valorizo o seu esforço para melhorar a qualidade e segurança deste projeto!
@@ -47,8 +47,6 @@ Aqui neste site você vai poder:
   Me siga no github e junte-se a mim!
   Obrigado por me visitar!
 
-
-Link surge - tasteless-crush.surge.sh
 
 
 
