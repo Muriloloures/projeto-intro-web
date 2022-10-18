@@ -2,7 +2,7 @@
 
 
 ## Site de compra de skins
-Esse site é sobre venda de skins de Counter Strike
+Esse site é sobre venda de skins de Counter-Strike
 
 
 ## Tecnologias usadas 
