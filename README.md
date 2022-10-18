@@ -42,7 +42,7 @@ Aqui neste site você vai poder:
 
   ## Feito por:
 
-  * **Murilo LOures** 
+  * **Murilo Loures** 
 
   Me siga no github e junte-se a mim!
   Obrigado por me visitar!
